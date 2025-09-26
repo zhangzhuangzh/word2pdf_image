@@ -12,7 +12,7 @@
 - [docx2pdf](https://github.com/AlJohri/docx2pdf) （依赖 Microsoft Word，仅限 Windows / macOS）
 - `tkinter`（Python 内置库）
 
-安装依赖：
+## 安装依赖：
 pip install pymupdf pillow docx2pdf pyinstaller
-打包命令：
+## 打包命令：
 pyinstaller --onefile --console word2pdf_image.py
