@@ -15,4 +15,4 @@
 安装依赖：
 pip install pymupdf pillow docx2pdf pyinstaller
 打包命令：
-pyinstaller --onefile --noconsole main.py
+pyinstaller --onefile --console word2pdf_image.py
